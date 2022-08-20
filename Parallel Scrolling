@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Parallel Scrolling</title>
+    <link rel="stylesheet" href="stylesheet.css">
+    <script src="https://kit.fontawesome.com/92d0c19eb6.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header id="header">
+        <a href="#" class="logo">Jungle</a>
+        <ul>
+            <li><a href="#" class="active">Home</a></li>
+            <li><a href="#">Dig Deep</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </header>
+    <section>
+        <h2 id="text"><span>Time to Dig</span><br>Deep</h2>
+        <img src="https://i.im.ge/2022/08/19/OaLHRp.bird1.png" id="bird1">
+        <img src="https://i.im.ge/2022/08/19/OaUTOT.bird2.png" id="bird2">
+        <img src="https://i.im.ge/2022/08/19/OaUojc.forest.png" id="forest">
+       
+      
+        <a href="#" id="btn">Explore</a>
+
+        <img src="https://i.im.ge/2022/08/19/OaU2sy.rocks.png" id="rocks">
+        <img src="https://i.im.ge/2022/08/19/OaUsO6.water.png" id="water">
+    </section>
+    <div class="details">
+        <h2>The Ocean</h2>
+        <p>The ocean is the lifeblood of Earth, covering more than 70 percent of the planet's surface, driving weather, 
+            regulating temperature, and ultimately supporting all living organisms. 
+            Throughout history, the ocean has been a vital source of sustenance, transport, commerce, growth, and inspiration.Yet for all of our reliance on the ocean, more than eighty percent of this vast, underwater realm remains unmapped, unobserved, and unexplored.
+            Given the high degree of difficulty and cost in exploring our ocean using underwater vehicles, researchers have long relied on technologies such as sonar to generate maps of the seafloor. Currently, less than ten percent of the global ocean is mapped using modern sonar technology. 
+            For the ocean and coastal waters of the United States, only about 35 percent has been mapped with modern methods. <br>Today, we know that the ocean makes up about 71% of the Earth’s surface, and it is the biggest ecosystem of the planet, holding 99% of all habitable space in the world. As much as we try to picture its vastness, however, it remains almost incomprehensible.
+            The five main ocean basins, the Pacific, Atlantic, Indian, Arctic and Southern Oceans contain 94% of the world’s wildlife and 97% of all the water on our blue planet.
+            Despite the central role it obviously plays in our planet’s balance, and the appeal the ocean has held to men since the beginning of time, we actually do not know much about its mysteries. In fact, most of the waters remain unexplored, uncharted and unseen by our eyes.
+            It might be shocking to find out, but only 5% of the ocean has been explored and charted by humans. The rest, especially its depths, are still unknown.<br> <br>Research vessels or ships designed for scientific research, are small communities of scientists. 
+            On board the ship, geologists, biologists, microbiologists, geneticists, geospatial analysts, and engineers travel to the distant parts of the ocean, where they stay and work together, often for weeks at a time. 
+            While at sea, the interdisciplinary team weaves together seafloor imagery and maps; collects biological, hydrological, and geological samples; 
+            and other types of environmental data to help tell the story of what life is like at the bottom of the ocean. 
+            Each expedition brings our scientists face-to-face with something new, and with each discovery of a new deep-sea creature or feature, such as an 86-mile-long coral reef off the coast of Charleston, South Carolina, USGS researchers continue to push scientific limits as they dive deeper into the oceanic frontier. <br> 
+            <br> Deep-sea fish are fish that live in the darkness below the sunlit surface waters, that is below the epipelagic or photic zone of the sea. The lanternfish is, by far, the most common deep-sea fish. Other deep sea fishes include the flashlight fish, cookiecutter shark, bristlemouths, anglerfish, viperfish, and some species of eelpout.
+            Only about 2% of known marine species inhabit the pelagic environment. This means that they live in the water column as opposed to the benthic organisms that live in or on the sea floor.
+             Deep-sea organisms generally inhabit bathypelagic (1000–4000m deep) and abyssopelagic (4000–6000m deep) zones. However, characteristics of deep-sea organisms, such as bioluminescence can be seen in the mesopelagic (200–1000m deep) zone as well. 
+             The mesopelagic zone is the disphotic zone, meaning light there is minimal but still measurable. The oxygen minimum layer exists somewhere between a depth of 700m and 1000m deep depending on the place in the ocean. This area is also where nutrients are most abundant. 
+             The bathypelagic and abyssopelagic zones are aphotic, meaning that no light penetrates this area of the ocean. These zones make up about 75% of the inhabitable ocean space.
+            </p>
+    </div>
+
+    <script src="javascript.js"></script>
+</body>
+</html>
